@@ -45,8 +45,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&theme=tokyonight&hide_border=true" alt="Mejji's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mejji&theme=tokyonight&hide_border=true" alt="Mejji's GitHub Streak" />
+  <a href="https://github.com/Mejji">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Mejji's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Mejji">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mejji&theme=tokyonight&hide_border=true" alt="Mejji's GitHub Streak" />
+  </a>
 </div>
 
 ---
