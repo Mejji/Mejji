@@ -27,30 +27,34 @@
 
 **AI, ML & Data Science**<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
 
 **Languages**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 
 **Mobile & Web**<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
 **Tools & Environments**<br>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 ---
 
@@ -77,10 +81,10 @@
 | Project | Description | Primary Tech |
 |---------|-------------|------------|
 | 🛡️ **[SavageStats](https://github.com/Mejji/SavageStats)** | Fully offline AI fitness coach for Android — on-device Gemma 3 LLM, camera food scanner, USDA RAG pipeline, and a savage personality. No cloud, no subscriptions. | `Kotlin` |
-| 🔬 **[Contextualizing-Retinal-Vessel-Segmentation](https://github.com/Mejji/Contextualizing-Retinal-Vessel-Segmentation)** | Attention-based Adaptive Fusion of Local Features and Global Topology. | `Python` |
-| 📈 **[Predicting-Stock-Prices](https://github.com/Mejji/Predicting-Stock-Prices-using-GRU-RNN)** | Deep learning model leveraging GRU-RNN to forecast market trends. | `Jupyter Notebook` |
-| 🏦 **[BPI-Sparks-Academy](https://github.com/Mejji/BPI-Sparks-Academy)** | Intelligent and ethical growth ecosystem to unify fragmented systems. | `TypeScript` |
-| 🌍 **[Visualizing-Global-Economic-Resilience](https://github.com/Mejji/Winners-and-Losers-Visualizing-Global-Economic-Resilience-During-the-COVID-19-Pandemic)** | Data visualization exploring COVID-19 economic impact and recovery metrics. | `Jupyter Notebook` |
+| 📊 **[DataMuse](https://github.com/Mejji/DataMuse---AI-DataVisuzaliztion)** | AI-powered data storytelling app with chat analytics, chart generation, and chapter-based narratives from CSV data. | `Python + TypeScript` |
+| 🎬 **[Movie Search with Vectors](https://github.com/Mejji/Movie-Search-with-Vectors---A-Beginner-s-Guide-to-Qdrant--Embeddings---RAG)** | Semantic movie search with Django CLI/Web UI, Qdrant vector database, sentence embeddings, and optional RAG chat. | `Python (Django)` |
+| 🗓️ **[LeisureSync](https://github.com/Mejji/LeisureSync)** | Hobby planner and personal scheduling app focused on consistency, reminders, and progress tracking. | `Dart` |
+| 🔬 **[Contextualizing-Retinal-Vessel-Segmentation](https://github.com/Mejji/Contextualizing-Retinal-Vessel-Segmentation)** | Research project on attention-based adaptive fusion of local vessel features and global retinal topology. | `Python` |
 
 ---
 
