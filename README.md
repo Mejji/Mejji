@@ -257,19 +257,22 @@ Built a semantic movie search engine using vector embeddings.
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=Mejji&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Mejji&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
 
-</div>
-
-<br />
-
-<div align="center">
+  <br />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mejji&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&theme=dark&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <br />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mejji&layout=compact&theme=dark"
+    alt="Top Languages"
   />
 
 </div>
