@@ -53,7 +53,7 @@ I build software around AI and machine learning, from autonomous agents and RAG 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 `Agentic AI` `RAG` `LLMs` `Transformers` `Computer Vision` `Graph Neural Networks` `Prompt Engineering` `On-Device AI`
@@ -92,7 +92,7 @@ I build software around AI and machine learning, from autonomous agents and RAG 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
@@ -206,6 +206,7 @@ Built a semantic movie search engine using vector embeddings.
 ## Experience
 
 ### AI Software Engineer
+
 **Mind You Mental Health Systems**
 
 - Build and deploy autonomous AI agents using **LangGraph**
@@ -218,6 +219,7 @@ Built a semantic movie search engine using vector embeddings.
 ---
 
 ### AI Engineer / Software Engineer for AI Training
+
 **Outlier**
 
 - Evaluated LLM-generated code for correctness and security
@@ -229,6 +231,7 @@ Built a semantic movie search engine using vector embeddings.
 ---
 
 ### Systems Engineer
+
 **JFC Corporation**
 
 - Built an internal HR and payroll management platform
@@ -247,3 +250,77 @@ Machine Learning    ███████████████████░
 System Design       ███████████████████░
 On-Device AI        ██████████████████░░
 DevOps & MLOps      █████████████████░░░
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mejji&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mejji&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+  <p>
+    I'm interested in building practical AI systems, intelligent software, and technology that solves real-world problems.
+  </p>
+
+  <br />
+
+  <a href="mailto:mjalvear44@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/Mejji">
+    <img
+      src="https://img.shields.io/badge/GitHub-Mejji-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <br />
+  <br />
+
+  <i>Building thoughtful, practical, and impactful technology.</i>
+
+  <br />
+  <br />
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=110&section=footer"
+    alt="Footer"
+  />
+
+</div>
