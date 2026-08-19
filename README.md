@@ -27,25 +27,25 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm an **AI Software Engineer at Mind You** and a **Computer Science graduate from the University of Santo Tomas**, specializing in **Data Science**.
 
-I enjoy building systems where **AI meets real software engineering**, from autonomous agents and RAG pipelines to machine learning systems, mobile applications, APIs, databases, and cloud infrastructure.
+I build software around AI and machine learning, from autonomous agents and RAG pipelines to backend systems, mobile applications, databases, and cloud infrastructure.
 
-- 🤖 Building **AI agents, LLM systems, and RAG pipelines**
-- 🧠 Working with **machine learning, deep learning, and computer vision**
-- 🏗️ Designing **scalable software and AI architectures**
-- 📱 Developing **mobile and full-stack applications**
-- ☁️ Deploying systems with **AWS, Docker, and automated workflows**
-- 🏆 **Best Thesis Award** for research in retinal vessel segmentation
-- 🔬 Interested in **Agentic AI, RAG, On-Device AI, MLOps, and System Design**
+- Building **AI agents, LLM systems, and RAG pipelines**
+- Working with **machine learning, deep learning, and computer vision**
+- Designing **scalable software and AI architectures**
+- Developing **mobile and full-stack applications**
+- Deploying systems with **AWS, Docker, and automated workflows**
+- **Best Thesis Award** for research in retinal vessel segmentation
+- Interested in **Agentic AI, RAG, On-Device AI, MLOps, and System Design**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -60,7 +60,7 @@ I enjoy building systems where **AI meets real software engineering**, from auto
 
 ---
 
-### ⚙️ Backend & Data
+### Backend & Data
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -73,7 +73,7 @@ I enjoy building systems where **AI meets real software engineering**, from auto
 
 ---
 
-### 💻 Web & Mobile
+### Web & Mobile
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -87,7 +87,7 @@ I enjoy building systems where **AI meets real software engineering**, from auto
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -99,9 +99,9 @@ I enjoy building systems where **AI meets real software engineering**, from auto
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏆 Retinal Vessel Segmentation
+### Retinal Vessel Segmentation
 
 **Best Thesis Award**
 
@@ -110,39 +110,39 @@ I enjoy building systems where **AI meets real software engineering**, from auto
 Developed an attention-based **CNN-GNN architecture** for retinal vessel segmentation using **(DA-U)²Net**, **Graph Attention Networks**, and **Dynamic Adaptive Feature Fusion**.
 
 - Evaluated on **DRIVE, CHASE_DB1, and HRF**
-- Introduced a learnable adaptive feature-fusion mechanism
+- Introduced a learnable adaptive feature fusion mechanism
 - Combined local CNN features with global graph topology
 - Optimized graph construction using **KD-Tree spatial indexing**
-- Applied **Fast Marching Method** for graph connectivity
+- Applied the **Fast Marching Method** for graph connectivity
 - Validated results through ablation studies and bootstrapped confidence intervals
 - Achieved statistically significant improvements over static feature fusion
 
 ---
 
-### 📊 DataMuse
+### DataMuse
 
 **AI-Powered Data Visualization & Storytelling Platform**
 
 `React` `TypeScript` `FastAPI` `Qdrant` `Docker` `RAG`
 
-Built a conversational analytics platform where users can upload datasets, ask questions in natural language, generate visualizations, and receive AI-generated explanations.
+Built a conversational analytics platform for querying uploaded datasets, generating visualizations, and explaining results in natural language.
 
-- Built a conversational AI analyst that executes real dataset queries
-- Designed a **tiered LLM router across multiple models and providers**
+- Built a conversational analyst that executes real dataset queries
+- Designed a tiered LLM router across multiple models and providers
 - Implemented automatic model escalation and rate-limit failover
 - Built a Qdrant-backed **RAG pipeline**
-- Added AI-generated data stories with embedded visualizations
+- Added data story generation with embedded visualizations
 - Designed thread-safe model routing and recovery logic
 
 ---
 
-### 💪 SavageStats
+### SavageStats
 
 **Offline-First AI Fitness Platform**
 
 `Kotlin` `Jetpack Compose` `MediaPipe` `TFLite` `Room` `ML Kit`
 
-Built an Android fitness application designed around **local-first and on-device AI**.
+Built an Android fitness application centered around local-first and on-device AI.
 
 - Runs a quantized **Gemma 3 1B LLM entirely on-device**
 - Built an offline RAG-based food logging system
@@ -154,30 +154,24 @@ Built an Android fitness application designed around **local-first and on-device
 
 ---
 
-### 📍 PwestoGo
+### PwestoGo
 
 **Agentic AI Location Intelligence Platform**
 
 `Flutter` `FastAPI` `Gemini` `Qdrant` `PostgreSQL` `MongoDB`
 
-Designed an AI-powered location consulting application using a **multi-agent architecture**.
+Designed an AI-powered location consulting application using a multi-agent architecture.
 
-- Built an AI orchestrator coordinating specialized sub-agents
-- Created agents for:
-  - Location analysis
-  - Commute analysis
-  - Flood information
-  - Traffic
-  - News
-  - Context and RAG
+- Built an orchestrator coordinating specialized sub-agents
+- Developed agents for location analysis, commute, flood, traffic, news, and RAG
 - Built a registry of real-time external data tools
 - Integrated traffic, weather, routing, and location APIs
-- Designed a PostgreSQL + MongoDB + Qdrant architecture
+- Designed a PostgreSQL, MongoDB, and Qdrant architecture
 - Implemented dynamic context retrieval and persona inheritance
 
 ---
 
-### 🏢 BPI Sparks Academy
+### BPI Sparks Academy
 
 **AI Employee Growth Platform**
 
@@ -193,9 +187,9 @@ Built and delivered an AI-driven employee development platform during a hackatho
 
 ---
 
-### 🎬 Movie Search with Vectors
+### Movie Search with Vectors
 
-**Semantic Search & RAG Learning Project**
+**Semantic Search & RAG Project**
 
 `Django` `Qdrant` `Sentence Transformers` `Groq` `Pandas`
 
@@ -209,7 +203,7 @@ Built a semantic movie search engine using vector embeddings.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### AI Software Engineer
 **Mind You Mental Health Systems**
@@ -217,7 +211,7 @@ Built a semantic movie search engine using vector embeddings.
 - Build and deploy autonomous AI agents using **LangGraph**
 - Develop production-ready agentic architectures
 - Build automated data pipelines on **AWS EC2**
-- Develop specialized LLM-powered systems
+- Develop specialized LLM systems
 - Engineer secure client dashboards and automated scoring workflows
 - Work across AI engineering, backend systems, deployment, and infrastructure
 
@@ -244,7 +238,7 @@ Built a semantic movie search engine using vector embeddings.
 
 ---
 
-## 🧠 Areas I'm Exploring
+## Areas I'm Exploring
 
 ```text
 Agentic AI          ████████████████████
@@ -253,34 +247,3 @@ Machine Learning    ███████████████████░
 System Design       ███████████████████░
 On-Device AI        ██████████████████░░
 DevOps & MLOps      █████████████████░░░
-
-
-📈 GitHub Stats
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mejji&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-
-</div> <br> <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mejji&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-🤝 Let's Connect
-<div align="center">
-
-I'm interested in building practical AI systems, intelligent software, and technology that solves real-world problems.
-
-<br> <a href="mailto:mjalvear44@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/Mejji"> <img src="https://img.shields.io/badge/GitHub-Mejji-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
-
-<br><br>
-
-<i>Building thoughtful, practical, and impactful technology.</i>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=110&section=footer" alt="Footer" />
-
-</div> ```
