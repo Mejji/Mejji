@@ -243,31 +243,22 @@ Built a semantic movie search engine using vector embeddings.
 
 ## Areas I'm Exploring
 
-```text
-Agentic AI          ████████████████████
-RAG & LLM Systems   ████████████████████
-Machine Learning    ███████████████████░
-System Design       ███████████████████░
-On-Device AI        ██████████████████░░
-DevOps & MLOps      █████████████████░░░
-```
+- **Agentic AI** — multi-agent systems, orchestration, tool use, and autonomous workflows
+- **RAG & LLM Systems** — retrieval, context engineering, evaluation, and model routing
+- **Machine Learning** — deep learning, computer vision, and graph neural networks
+- **System Design** — scalable AI architectures, APIs, databases, and distributed systems
+- **On-Device AI** — local inference, quantization, and hardware-aware model deployment
+- **DevOps & MLOps** — containers, cloud infrastructure, CI/CD, and model deployment
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mejji&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com?user=Mejji&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
   />
 
 </div>
