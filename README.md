@@ -256,24 +256,19 @@ Built a semantic movie search engine using vector embeddings.
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=Mejji&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Mejji&theme=dark&hide_border=true" alt="GitHub Streak" />
 
   <br />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mejji&show_icons=true&theme=dark&count_private=true"
-    alt="GitHub Stats"
-  />
-
+  <!-- Stable fallbacks: reliable badges and links -->
+  <a href="https://github.com/Mejji" title="View my GitHub profile">
+    <img src="https://img.shields.io/github/followers/Mejji?label=Followers&style=flat&color=2CB67D" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Mejji?tab=repositories" title="View my repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="Repos" />
+  </a>
   <br />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mejji&layout=compact&theme=dark"
-    alt="Top Languages"
-  />
+  <em>If you want the dynamic "GitHub Stats / Top languages" cards back, we can either keep them as external images (may still be proxied by camo) or host a generated snapshot in this repo and update it periodically via GitHub Actions.</em>
 
 </div>
 
